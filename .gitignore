@@ -113,4 +113,4 @@ dmypy.json
 data/athlete_events.csv
 
 # solutions
-*_solution.ipynb
+#*_solution.ipynb
